@@ -7,4 +7,6 @@ The first parameter determines the mathematical operation to be performed Parame
 
 Your function should have five conditionals that perform the four different mathematical operations depending on `x` (add, subtract, multiply, divide) 
 
-Invoke your function, pass in your values, and console.log `output` Test your function using node.js
+Invoke your function, pass in your values, and console.log `output` 
+
+Test your function using node.js
